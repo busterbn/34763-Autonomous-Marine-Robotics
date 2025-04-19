@@ -4,3 +4,13 @@ Welcome to my repository for the DTU course 34763-Autonomous-Marine-Robotics. Th
 Branches
 
 ---
+
+## Branches
+
+Each branch corresponds to a different home assignment.
+
+### 1. Seabed mapping 
+- **Branch:** [`seabed_mapping`](https://github.com/busterbn/34763-Autonomous-Marine-Robotics/tree/seabed_mapping)
+- **Description:**  
+    
+- **Content:**
